@@ -67,7 +67,7 @@ Create a Gemini API key and set it as an environment variable.
 PowerShell for the current terminal session:
 
 ```powershell
-$env:GEMINI_API_KEY="YOUR_API_KEY"
+$env:GEMINI_API_KEY="AIzaSyA5Qytv1OQhCXwAZ7qeQsH1fv6rp1NMcuM"
 $env:GEMINI_MODEL="gemini-3.8-flash"
 uvicorn app:app --reload
 ```
